@@ -1,0 +1,23 @@
+{
+  "name": "supersauce",
+  "version": "0.0.1",
+  "description": "Super saucy React-based documentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobelong/supersauce.git"
+  },
+  "author": "Jake Long & Josh Kennedy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobelong/supersauce/issues"
+  },
+  "homepage": "https://github.com/jacobelong/supersauce#readme",
+  "dependencies": {
+    "react": "^16.1.0",
+    "react-dom": "^16.1.0"
+  }
+}
